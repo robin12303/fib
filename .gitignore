@@ -1,0 +1,10 @@
+@"
+.vs/
+x64/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+"@ | Set-Content -Encoding UTF8 .gitignore

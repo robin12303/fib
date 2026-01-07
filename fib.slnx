@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="fib/fib.vcxproj" Id="5cc872b3-5519-46cb-a2b7-67b3a7dd851e" />
+</Solution>
